@@ -1,5 +1,6 @@
 # 概述
 * 練習 dockerfile multi-stage build 的產物
+* image size 13.57MB
 * clone 此專案後移動到專案下，執行下列指令
 ```
 docker build -t kawa/golang:alpine .
